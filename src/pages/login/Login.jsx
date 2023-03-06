@@ -1,6 +1,6 @@
 import React from 'react'
 import './login.css'
-import { BrowserRouter as Router, Link } from 'react-router-dom'
+import {  Link } from 'react-router-dom'
 export default function Login() {
   return (
 		<div className="login">
